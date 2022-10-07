@@ -1,5 +1,5 @@
 # About Me:
-I'm Aayan , Currently working in Discord bots<br>From Assam, India, <br>Studying Computer Science<br>Worked at AutoCode Inc as BackEnd Developer <br>
+I'm Aayan ,<br>From Assam, India, <br><br>Worked at AutoCode Inc as BackEnd Developer <br>
 
 
 ##  Socials:
