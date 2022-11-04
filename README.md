@@ -1,5 +1,5 @@
 # About Me:
-I'm Aayan ,<br>From Assam, India, <br>I'm full stack developer<br><br>Worked at AutoCode Inc as BackEnd Developer <br>
+I'm Aayan ,<br>From Assam, India, <br>I'm full stack developer<br>Worked at AutoCode Inc as BackEnd Developer <br>
 
 
 ##  Socials:
