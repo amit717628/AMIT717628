@@ -1,7 +1,9 @@
 # About Me:
 I'm Aayan ,<br>From Assam, India, <br>I'm full stack developer<br>Worked at AutoCode Inc as BackEnd Developer <br>
 
-
+## My Website
+[Total Fun](https://totalfun.in)
+[Profile](https://aayan.tech/)
 ##  Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Z4tKgfgj9Y) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/aayan_07) 
 
