@@ -3,7 +3,7 @@ I'm Aayan ,<br>From Assam, India,<br>I'm full stack developer<br>Worked at AutoC
 
 
 ## 🌐 Socials:
-[My Website](https://aayan.tech)
+[My Website](https://aayan.tech) <br>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Z4tKgfgj9Y) 
 
 # 💻 Tech Stack:
