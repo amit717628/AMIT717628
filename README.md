@@ -2,7 +2,7 @@
 Hi, I'm Amit Kumar Singh, <br>a TypeScript ,React Native and JavaScript developer with a strong focus on MERN stack (MongoDB, Express.js, React, and Node.js) development,<br> I'm passionate about crafting clean and efficient code to build scalable web applications. Constantly expanding my skills and eager to take on new challenges in the world of full-stack development.<br>
 
 ## Education
-I am currently pursuing a B.Tech in Artificial Intelligence & Machine Learning from **IIT Guwahati**.
+I am currently pursuing a B.Tech in Artificial Intelligence & Data Science from **IIT Guwahati**
 
 ## 🌐 Socials:
 [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/amit717628) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/amit717628) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/amit717628) 
