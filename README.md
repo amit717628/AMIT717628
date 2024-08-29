@@ -2,7 +2,6 @@
 Hi, I'm Amit Kumar Singh, <br>a TypeScript ,React Native,Cyber Security Reacher and JavaScript developer with a strong focus on MERN stack (MongoDB, Express.js, React, and Node.js) development,<br> I'm passionate about crafting clean and efficient code to build scalable web applications. Constantly expanding my skills and eager to take on new challenges in the world of full-stack development.<br>
 
 ## Work Experience
-- National Investigation Agency [NIA] ( Cyber Security Researcher )
 - Discord ( Beta Tester )
 - NestCloud ( Founder )
 - AutoCode ( Backend Developer )
